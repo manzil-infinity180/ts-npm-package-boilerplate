@@ -1,0 +1,25 @@
+{
+  "name": "@rahulxf/first-package",
+  "version": "0.0.1",
+  "description": "Learning to build and publish npm package",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://www.rahulxf.tech/",
+  "repository": {
+    "url":"https://github.com/manzil-infinity180/first-npm-package"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "test",
+    "rahulxf"
+  ],
+  "author": "Rahul Vishwakarma",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
