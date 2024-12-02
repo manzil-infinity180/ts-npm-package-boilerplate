@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://www.rahulxf.tech/",
   "repository": {
-    "url":"https://github.com/manzil-infinity180/first-npm-package"
+    "url":"https://github.com/manzil-infinity180/ts-npm-package-boilerplate"
   },
   "scripts": {
     "build": "tsup"
